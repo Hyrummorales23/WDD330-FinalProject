@@ -1,0 +1,67 @@
+/* General Styles */
+body {
+    font-family: 'Press Start 2P', cursive;
+    background-color: #FFDE00;
+    color: #3B4CCA;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+button {
+    background-color: #FF0000;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+/* Screen Sections */
+.screen {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Show the active screen */
+.screen.active {
+    display: flex;
+}
+
+/* Quiz Section */
+#question-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 600px;
+}
+
+#answers-container button {
+    display: block;
+    margin: 10px auto;
+    width: 80%;
+}
+
+/* Timer */
+#timer {
+    font-size: 1.5rem;
+    color: red;
+    margin-top: 20px;
+}

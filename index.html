@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon Trainer Quiz</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="icon" type="image/png" href="assets/icons/pokeball.png">
+</head>
+
+<body>
+    <div id="app">
+        <!-- Welcome Screen -->
+        <section id="welcome-screen" class="screen">
+            <h1>Pokémon Trainer Quiz</h1>
+            <p>Test your Pokémon knowledge!</p>
+            <label for="difficulty">Choose Difficulty:</label>
+            <select id="difficulty">
+                <option value="easy">Easy</option>
+                <option value="medium">Medium</option>
+                <option value="hard">Hard</option>
+            </select>
+            <button id="start-quiz">Start Quiz</button>
+        </section>
+
+        <!-- Quiz Section -->
+        <section id="quiz-screen" class="screen hidden">
+            <div id="question-container">
+                <h2 id="question-text">Question will appear here</h2>
+                <div id="answers-container"></div>
+            </div>
+            <div id="timer">15</div>
+        </section>
+
+        <!-- Results Section -->
+        <section id="results-screen" class="screen hidden">
+            <h2>Your Score: <span id="final-score">0</span></h2>
+            <p id="trivia-text">Pokémon trivia will appear here!</p>
+            <button id="restart-quiz">Try Again</button>
+        </section>
+    </div>
+
+    <script src="scripts/app.js"></script>
+</body>
+
+</html>
