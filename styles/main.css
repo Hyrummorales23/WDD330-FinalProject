@@ -28,7 +28,7 @@ button:hover {
 
 /* Screen Sections */
 .screen {
-    display: none;
+    /*display: none;*/
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -64,4 +64,30 @@ button:hover {
     font-size: 1.5rem;
     color: red;
     margin-top: 20px;
+}
+
+/* Question Container */
+#question-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.answer-btn {
+    display: block;
+    margin: 10px auto;
+    width: 80%;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.answer-btn:hover {
+    background-color: #FFDE00;
+    transform: scale(1.05);
 }
