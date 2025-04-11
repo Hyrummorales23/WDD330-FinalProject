@@ -236,13 +236,10 @@ footer {
 
 /* Responsive Typography */
 @media screen and (max-width: 600px) {
-    h1 {
-        font-size: 1.5rem;
-    }
 
     .logo {
-        width: 30px;
-        height: 30px;
+        width: 50px;
+        height: 50px;
     }
 
     button {
@@ -252,6 +249,10 @@ footer {
     footer {
         font-size: 0.7rem;
     }
+
+    h1 {
+        font-size: medium;
+    }
 }
 
 #quiz-screen,
@@ -260,17 +261,55 @@ footer {
     margin: 1.75rem;
 }
 
+#quez-screen {
+    margin: none;
+}
+
 /* 🎥 Responsive Video Styling */
-.intro-video {
+.intro-media {
     margin-top: 20px;
     width: 100%;
     justify-self: center;
 }
 
-.intro-video video {
+.intro-media video {
     width: 80%;
     height: auto;
     border-radius: 12px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
     justify-self: center;
+}
+
+.intro-image {
+    width: auto;
+    max-width: 800px;
+    height: 130vw;
+    max-height: 33rem;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    display: block;
+    justify-self: center;
+}
+
+/* Hide image on desktop */
+.intro-image {
+    display: none;
+}
+
+/* Hide video and show image on mobile */
+@media (max-width: 768px) {
+    .intro-video {
+        display: none;
+    }
+
+    .intro-image {
+        display: block;
+    }
+
+}
+
+@media (max-width: 892px) {
+    h1 {
+        font-size: larger;
+    }
 }
