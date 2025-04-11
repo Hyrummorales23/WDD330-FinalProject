@@ -1,0 +1,3004 @@
+[
+    {
+        "question": "What type is Pikachu?",
+        "correct_answer": "Electric",
+        "incorrect_answers": [
+            "Fire",
+            "Water",
+            "Grass"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is known for storing electricity in its cheeks?",
+        "correct_answer": "Pikachu",
+        "incorrect_answers": [
+            "Pichu",
+            "Raichu",
+            "Voltorb"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which type is super effective against Water-type Pokémon?",
+        "correct_answer": "Electric",
+        "incorrect_answers": [
+            "Fire",
+            "Normal",
+            "Psychic"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the region in the original Pokémon games?",
+        "correct_answer": "Kanto",
+        "incorrect_answers": [
+            "Johto",
+            "Sinnoh",
+            "Unova"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What item is used to catch wild Pokémon?",
+        "correct_answer": "Poké Ball",
+        "incorrect_answers": [
+            "Potion",
+            "Berry",
+            "TM Disk"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon evolves into Charizard?",
+        "correct_answer": "Charmeleon",
+        "incorrect_answers": [
+            "Charmander",
+            "Charcoal",
+            "Charjabug"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is the mascot of the franchise?",
+        "correct_answer": "Pikachu",
+        "incorrect_answers": [
+            "Eevee",
+            "Charmander",
+            "Jigglypuff"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What does a Potion do in the Pokémon games?",
+        "correct_answer": "Restores HP",
+        "incorrect_answers": [
+            "Cures status conditions",
+            "Increases speed",
+            "Evolves Pokémon"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What type is Bulbasaur?",
+        "correct_answer": "Grass/Poison",
+        "incorrect_answers": [
+            "Grass",
+            "Poison",
+            "Grass/Water"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which color is associated with Team Mystic in Pokémon GO?",
+        "correct_answer": "Blue",
+        "incorrect_answers": [
+            "Red",
+            "Yellow",
+            "Green"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is known for singing and putting others to sleep?",
+        "correct_answer": "Jigglypuff",
+        "incorrect_answers": [
+            "Clefairy",
+            "Wigglytuff",
+            "Snorlax"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is known for always sleeping?",
+        "correct_answer": "Snorlax",
+        "incorrect_answers": [
+            "Slowpoke",
+            "Jigglypuff",
+            "Psyduck"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon evolves into Butterfree?",
+        "correct_answer": "Metapod",
+        "incorrect_answers": [
+            "Caterpie",
+            "Beedrill",
+            "Weedle"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon evolves into Charizard?",
+        "correct_answer": "Charmeleon",
+        "incorrect_answers": [
+            "Charmander",
+            "Charjabug",
+            "Charcadet"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who is Ash Ketchum's first Pokémon?",
+        "correct_answer": "Pikachu",
+        "incorrect_answers": [
+            "Charmander",
+            "Bulbasaur",
+            "Squirtle"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What Pokémon has the ability 'Intimidate' and evolves into Gyarados?",
+        "correct_answer": "Magikarp",
+        "incorrect_answers": [
+            "Feebas",
+            "Tentacool",
+            "Horsea"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the only Pokémon that can learn the move 'Spacial Rend'?",
+        "correct_answer": "Palkia",
+        "incorrect_answers": [
+            "Dialga",
+            "Giratina",
+            "Arceus"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which item is required to evolve Sneasel into Weavile?",
+        "correct_answer": "Razor Claw",
+        "incorrect_answers": [
+            "Metal Coat",
+            "Quick Claw",
+            "Dusk Stone"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which Pokémon has the ability 'Speed Boost' as its hidden ability?",
+        "correct_answer": "Torchic",
+        "incorrect_answers": [
+            "Combusken",
+            "Blaziken",
+            "Scorbunny"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "In Pokémon lore, which Legendary Pokémon created time?",
+        "correct_answer": "Dialga",
+        "incorrect_answers": [
+            "Palkia",
+            "Arceus",
+            "Giratina"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which Gym Leader uses Ghost-type Pokémon in the Johto region?",
+        "correct_answer": "Morty",
+        "incorrect_answers": [
+            "Jasmine",
+            "Clair",
+            "Falkner"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which Pokémon evolves when traded while holding a Metal Coat?",
+        "correct_answer": "Onix",
+        "incorrect_answers": [
+            "Machoke",
+            "Graveler",
+            "Scyther"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "In the anime, what is the name of the Pokémon that frequently uses 'Sing' and draws on people's faces?",
+        "correct_answer": "Jigglypuff",
+        "incorrect_answers": [
+            "Clefairy",
+            "Togepi",
+            "Chansey"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which Gym Leader in Johto specializes in Ghost-type Pokémon?",
+        "correct_answer": "Morty",
+        "incorrect_answers": [
+            "Falkner",
+            "Bugsy",
+            "Clair"
+        ],
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which Pokémon has a Mega Evolution that becomes part Dragon-type and is exclusive to Pokémon X?",
+        "correct_answer": "Charizard",
+        "incorrect_answers": [
+            "Blastoise",
+            "Venusaur",
+            "Pidgeot"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the only Pokémon that can have the ability 'Multitype'?",
+        "correct_answer": "Arceus",
+        "incorrect_answers": [
+            "Zygarde",
+            "Mew",
+            "Genesect"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which Pokémon was the first to have a special form in Pokémon GO, and how was it obtained?",
+        "correct_answer": "Pikachu (Wearing a Santa Hat)",
+        "incorrect_answers": [
+            "Eevee (Wearing a Hat)",
+            "Charmander (Shiny)",
+            "Snorlax (Wearing a Lapras Hat)"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which ability allows a Pokémon to move first in a turn when it’s in a pinch (less than 1/3 of its HP)?",
+        "correct_answer": "Prankster",
+        "incorrect_answers": [
+            "Speed Boost",
+            "Quick Feet",
+            "Swarm"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the signature move of the Pokémon 'Zygarde' in its 100% form?",
+        "correct_answer": "Land's Wrath",
+        "incorrect_answers": [
+            "Core Enforcer",
+            "Dragon Pulse",
+            "Earthquake"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which Legendary Pokémon is said to represent the concept of death and lives in the Distortion World?",
+        "correct_answer": "Giratina",
+        "incorrect_answers": [
+            "Lugia",
+            "Ho-Oh",
+            "Yveltal"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the maximum number of EV (Effort Value) points that a single stat can have in Pokémon?",
+        "correct_answer": "252",
+        "incorrect_answers": [
+            "255",
+            "300",
+            "510"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which Pokémon has the highest base stat total of any Pokémon in the game?",
+        "correct_answer": "Arceus",
+        "incorrect_answers": [
+            "Mewtwo",
+            "Rayquaza",
+            "Zygarde"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which move is unique to the Legendary Pokémon Mewtwo?",
+        "correct_answer": "Psychic",
+        "incorrect_answers": [
+            "Confusion",
+            "Hyper Beam",
+            "Shadow Ball"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which type of Pokémon was introduced in Generation VI, and is the only one to have immunity to Dragon-type moves?",
+        "correct_answer": "Fairy",
+        "incorrect_answers": [
+            "Steel",
+            "Ghost",
+            "Dark"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which move can only be learned by the Legendary Pokémon Regigigas?",
+        "correct_answer": "Crush Grip",
+        "incorrect_answers": [
+            "Hammer Arm",
+            "Toxic",
+            "Hyper Beam"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What item is needed to evolve a Sneasel into Weavile during the night?",
+        "correct_answer": "Razor Claw",
+        "incorrect_answers": [
+            "Dawn Stone",
+            "Shiny Stone",
+            "Metal Coat"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "In Pokémon Sword and Shield, what is the name of the Gigantamax form of Butterfree?",
+        "correct_answer": "Gigantamax Butterfree",
+        "incorrect_answers": [
+            "Dynamax Butterfree",
+            "Butterfree Max",
+            "Max Butterfree"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which Pokémon has the ability 'As One' that pairs with Zygarde?",
+        "correct_answer": "Zygarde's 10% Form",
+        "incorrect_answers": [
+            "Zygarde's 50% Form",
+            "Zygarde's 100% Form",
+            "Zygarde's Core Form"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which Legendary Pokémon from Generation VII can be obtained in the Ultra Sun and Ultra Moon version by using the Ultra Wormhole?",
+        "correct_answer": "Necrozma",
+        "incorrect_answers": [
+            "Lunala",
+            "Solgaleo",
+            "Zygarde"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which Pokémon has a signature move called 'Fusion Flare'?",
+        "correct_answer": "Reshiram",
+        "incorrect_answers": [
+            "Zekrom",
+            "Kyurem",
+            "Lugia"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which ability allows a Pokémon to raise its Special Defense stat in the rain?",
+        "correct_answer": "Rain Dish",
+        "incorrect_answers": [
+            "Cloud Nine",
+            "Drizzle",
+            "Clear Body"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which Pokémon can learn the move 'Healing Wish'?",
+        "correct_answer": "Jirachi",
+        "incorrect_answers": [
+            "Celebi",
+            "Mew",
+            "Deoxys"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the highest level a Pokémon can reach in the main games?",
+        "correct_answer": "Level 100",
+        "incorrect_answers": [
+            "Level 50",
+            "Level 75",
+            "Level 200"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which Mega Evolution form of Blaziken is considered the most powerful?",
+        "correct_answer": "Mega Blaziken",
+        "incorrect_answers": [
+            "Normal Blaziken",
+            "Mega Swampert",
+            "Mega Sceptile"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which move is the signature move of the Pokémon 'Groudon'?",
+        "correct_answer": "Precipice Blades",
+        "incorrect_answers": [
+            "Earthquake",
+            "Solar Beam",
+            "Stone Edge"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which generation introduced the Fairy-type Pokémon?",
+        "correct_answer": "Generation VI",
+        "incorrect_answers": [
+            "Generation V",
+            "Generation IV",
+            "Generation III"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which Legendary Pokémon in Generation V is known as the 'creator' of Unova?",
+        "correct_answer": "Reshiram",
+        "incorrect_answers": [
+            "Zekrom",
+            "Kyurem",
+            "Genesect"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which move was unique to the Legendary Pokémon Ho-Oh?",
+        "correct_answer": "Sacred Fire",
+        "incorrect_answers": [
+            "Flamethrower",
+            "Fire Blast",
+            "Inferno"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which Pokémon is known to have the highest Special Attack stat?",
+        "correct_answer": "Deoxys (Attack Form)",
+        "incorrect_answers": [
+            "Mewtwo",
+            "Giratina",
+            "Lugia"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "In Pokémon Black and White, which legendary Pokémon represents 'truth'?",
+        "correct_answer": "Reshiram",
+        "incorrect_answers": [
+            "Zekrom",
+            "Kyurem",
+            "Giratina"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which move can only be learned by Mewtwo in its original Gen I game?",
+        "correct_answer": "Psystrike",
+        "incorrect_answers": [
+            "Psychic",
+            "Recover",
+            "Barrier"
+        ],
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which Pokémon is known as the 'Tiny Turtle Pokémon'?",
+        "correct_answer": "Squirtle",
+        "incorrect_answers": [
+            "Totodile",
+            "Turtwig",
+            "Piplup"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What color are Bulbasaur’s eyes?",
+        "correct_answer": "Red",
+        "incorrect_answers": [
+            "Blue",
+            "Green",
+            "Black"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is #001 in the Pokédex?",
+        "correct_answer": "Bulbasaur",
+        "incorrect_answers": [
+            "Charmander",
+            "Pikachu",
+            "Chikorita"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon can evolve into Gloom?",
+        "correct_answer": "Oddish",
+        "incorrect_answers": [
+            "Bellsprout",
+            "Vileplume",
+            "Tangela"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What type is Geodude?",
+        "correct_answer": "Rock/Ground",
+        "incorrect_answers": [
+            "Ground",
+            "Rock",
+            "Steel"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon evolves into Butterfree?",
+        "correct_answer": "Metapod",
+        "incorrect_answers": [
+            "Caterpie",
+            "Weedle",
+            "Kakuna"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon uses a bone as a weapon?",
+        "correct_answer": "Cubone",
+        "incorrect_answers": [
+            "Sandshrew",
+            "Machop",
+            "Diglett"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What Pokémon is known for its ability to teleport?",
+        "correct_answer": "Abra",
+        "incorrect_answers": [
+            "Gastly",
+            "Kadabra",
+            "Alakazam"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the evolved form of Pidgey?",
+        "correct_answer": "Pidgeotto",
+        "incorrect_answers": [
+            "Pidgeot",
+            "Spearow",
+            "Noctowl"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is always seen carrying an egg?",
+        "correct_answer": "Chansey",
+        "incorrect_answers": [
+            "Blissey",
+            "Togepi",
+            "Cleffa"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon has a mushroom on its back and is known to emit spores?",
+        "correct_answer": "Paras",
+        "incorrect_answers": [
+            "Shroomish",
+            "Foongus",
+            "Morelull"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon has the signature move 'Splash'?",
+        "correct_answer": "Magikarp",
+        "incorrect_answers": [
+            "Gyarados",
+            "Feebas",
+            "Remoraid"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is known as the 'Mouse Pokémon'?",
+        "correct_answer": "Pikachu",
+        "incorrect_answers": [
+            "Rattata",
+            "Sandshrew",
+            "Sentret"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What item is used to evolve a Pikachu into a Raichu?",
+        "correct_answer": "Thunder Stone",
+        "incorrect_answers": [
+            "Fire Stone",
+            "Moon Stone",
+            "Leaf Stone"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is based on a duck and holds a leek?",
+        "correct_answer": "Farfetch'd",
+        "incorrect_answers": [
+            "Psyduck",
+            "Ducklett",
+            "Golduck"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the first Pokémon that Ash Ketchum catches?",
+        "correct_answer": "Caterpie",
+        "incorrect_answers": [
+            "Pidgeotto",
+            "Bulbasaur",
+            "Rattata"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon evolves from Charmander?",
+        "correct_answer": "Charmeleon",
+        "incorrect_answers": [
+            "Charizard",
+            "Charjabug",
+            "Cyndaquil"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What type is the Pokémon Vulpix?",
+        "correct_answer": "Fire",
+        "incorrect_answers": [
+            "Ice",
+            "Normal",
+            "Fairy"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is known for its punching moves and is a Fighting type?",
+        "correct_answer": "Hitmonchan",
+        "incorrect_answers": [
+            "Machoke",
+            "Hitmonlee",
+            "Primeape"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon can evolve into Poliwhirl?",
+        "correct_answer": "Poliwag",
+        "incorrect_answers": [
+            "Poliwrath",
+            "Wooper",
+            "Seel"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What color is Meowth’s coin on its forehead?",
+        "correct_answer": "Gold",
+        "incorrect_answers": [
+            "Silver",
+            "Red",
+            "Blue"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is shaped like a ball and explodes?",
+        "correct_answer": "Voltorb",
+        "incorrect_answers": [
+            "Electrode",
+            "Koffing",
+            "Geodude"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon has a flower growing from its back?",
+        "correct_answer": "Bulbasaur",
+        "incorrect_answers": [
+            "Oddish",
+            "Chikorita",
+            "Turtwig"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What does Ekans evolve into?",
+        "correct_answer": "Arbok",
+        "incorrect_answers": [
+            "Seviper",
+            "Koffing",
+            "Weezing"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is based on a fox and known for illusions in later forms?",
+        "correct_answer": "Vulpix",
+        "incorrect_answers": [
+            "Eevee",
+            "Zorua",
+            "Growlithe"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is a fish and evolves into a powerful sea dragon?",
+        "correct_answer": "Magikarp",
+        "incorrect_answers": [
+            "Goldeen",
+            "Seaking",
+            "Remoraid"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is known as the 'Balloon Pokémon'?",
+        "correct_answer": "Jigglypuff",
+        "incorrect_answers": [
+            "Clefairy",
+            "Wigglytuff",
+            "Igglybuff"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is known for mimicking others and has a clown-like appearance?",
+        "correct_answer": "Mr. Mime",
+        "incorrect_answers": [
+            "Mime Jr.",
+            "Ditto",
+            "Claydol"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the evolved form of Diglett?",
+        "correct_answer": "Dugtrio",
+        "incorrect_answers": [
+            "Sandshrew",
+            "Graveler",
+            "Onix"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Normal-type Pokémon is famous for its ability to transform?",
+        "correct_answer": "Ditto",
+        "incorrect_answers": [
+            "Eevee",
+            "Smeargle",
+            "Clefairy"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What Pokémon is shaped like a star and evolves into Starmie?",
+        "correct_answer": "Staryu",
+        "incorrect_answers": [
+            "Cleffa",
+            "Jirachi",
+            "Cosmog"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is always sleepy and known for blocking roads?",
+        "correct_answer": "Snorlax",
+        "incorrect_answers": [
+            "Slowpoke",
+            "Jigglypuff",
+            "Slakoth"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What Pokémon resembles a horse and has flames for a mane?",
+        "correct_answer": "Ponyta",
+        "incorrect_answers": [
+            "Rapidash",
+            "Blaziken",
+            "Zebstrika"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon has three heads and is a Grass/Psychic type?",
+        "correct_answer": "Exeggcute",
+        "incorrect_answers": [
+            "Dodrio",
+            "Weepinbell",
+            "Tangela"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon has the ability to levitate and is a Ghost/Poison type?",
+        "correct_answer": "Gastly",
+        "incorrect_answers": [
+            "Duskull",
+            "Haunter",
+            "Misdreavus"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon resembles a pink ball and is known for healing others?",
+        "correct_answer": "Chansey",
+        "incorrect_answers": [
+            "Clefairy",
+            "Audino",
+            "Blissey"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What Pokémon evolves from Machop?",
+        "correct_answer": "Machoke",
+        "incorrect_answers": [
+            "Machamp",
+            "Hitmonlee",
+            "Makuhita"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is a crab with a giant pincer?",
+        "correct_answer": "Kingler",
+        "incorrect_answers": [
+            "Krabby",
+            "Corphish",
+            "Clawitzer"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What Pokémon evolves from Psyduck?",
+        "correct_answer": "Golduck",
+        "incorrect_answers": [
+            "Poliwag",
+            "Slowpoke",
+            "Dewgong"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What Pokémon is known for being very fast and is Electric type?",
+        "correct_answer": "Jolteon",
+        "incorrect_answers": [
+            "Electabuzz",
+            "Zapdos",
+            "Manectric"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is known for constantly sleeping and has a huge appetite?",
+        "correct_answer": "Snorlax",
+        "incorrect_answers": [
+            "Munchlax",
+            "Slaking",
+            "Slowbro"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon has a drill for a horn and is a Ground type?",
+        "correct_answer": "Nidoking",
+        "incorrect_answers": [
+            "Rhyhorn",
+            "Sandslash",
+            "Donphan"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is known as the 'Dopey Pokémon'?",
+        "correct_answer": "Slowpoke",
+        "incorrect_answers": [
+            "Psyduck",
+            "Drowzee",
+            "Wobbuffet"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the evolved form of Growlithe?",
+        "correct_answer": "Arcanine",
+        "incorrect_answers": [
+            "Ninetales",
+            "Flareon",
+            "Magmar"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is blue, spherical, and has a swirl on its belly?",
+        "correct_answer": "Poliwag",
+        "incorrect_answers": [
+            "Spheal",
+            "Wooper",
+            "Marill"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon evolves into Raichu?",
+        "correct_answer": "Pikachu",
+        "incorrect_answers": [
+            "Pichu",
+            "Jolteon",
+            "Electrike"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon resembles a rock snake?",
+        "correct_answer": "Onix",
+        "incorrect_answers": [
+            "Steelix",
+            "Rhyhorn",
+            "Graveler"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon evolves from Weedle?",
+        "correct_answer": "Kakuna",
+        "incorrect_answers": [
+            "Beedrill",
+            "Metapod",
+            "Caterpie"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon has a mane of fire and evolves from Ponyta?",
+        "correct_answer": "Rapidash",
+        "incorrect_answers": [
+            "Arcanine",
+            "Magmar",
+            "Ninetales"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon has a skull helmet and cries for its mother?",
+        "correct_answer": "Cubone",
+        "incorrect_answers": [
+            "Marowak",
+            "Sandshrew",
+            "Diglett"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the evolved form of Seel?",
+        "correct_answer": "Dewgong",
+        "incorrect_answers": [
+            "Walrein",
+            "Spheal",
+            "Cloyster"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is known for singing and putting others to sleep?",
+        "correct_answer": "Jigglypuff",
+        "incorrect_answers": [
+            "Clefairy",
+            "Chansey",
+            "Audino"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is a Fire/Flying type and evolves from Charmeleon?",
+        "correct_answer": "Charizard",
+        "incorrect_answers": [
+            "Moltres",
+            "Talonflame",
+            "Salamence"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is purple, shaped like a blob, and can transform?",
+        "correct_answer": "Ditto",
+        "incorrect_answers": [
+            "Grimer",
+            "Muk",
+            "Gulpin"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon evolves into Nidoking?",
+        "correct_answer": "Nidorino",
+        "incorrect_answers": [
+            "Nidoran♂",
+            "Nidorina",
+            "Nidoking doesn’t evolve"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is a pink fairy with wings and a moonstone evolution?",
+        "correct_answer": "Clefairy",
+        "incorrect_answers": [
+            "Jigglypuff",
+            "Chansey",
+            "Spritzee"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the evolved form of Clefairy?",
+        "correct_answer": "Clefable",
+        "incorrect_answers": [
+            "Cleffa",
+            "Wigglytuff",
+            "Jigglypuff"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Electric-type Pokémon evolves into Electabuzz?",
+        "correct_answer": "Elekid",
+        "incorrect_answers": [
+            "Pichu",
+            "Voltorb",
+            "Pawmi"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is known as the 'Lightning Pokémon'?",
+        "correct_answer": "Jolteon",
+        "incorrect_answers": [
+            "Electrode",
+            "Zapdos",
+            "Luxray"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon has spots on its back and is known as a mushroom crab?",
+        "correct_answer": "Paras",
+        "incorrect_answers": [
+            "Foongus",
+            "Morelull",
+            "Shroomish"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the evolved form of Bellsprout?",
+        "correct_answer": "Weepinbell",
+        "incorrect_answers": [
+            "Victreebel",
+            "Oddish",
+            "Gloom"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon has a white body with red eyes and floats in the air?",
+        "correct_answer": "Gastly",
+        "incorrect_answers": [
+            "Duskull",
+            "Misdreavus",
+            "Chimecho"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What Pokémon resembles a pair of magnets stuck together?",
+        "correct_answer": "Magneton",
+        "incorrect_answers": [
+            "Magnemite",
+            "Metang",
+            "Probopass"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is pink, Normal type, and known to sketch anything?",
+        "correct_answer": "Smeargle",
+        "incorrect_answers": [
+            "Skitty",
+            "Lickitung",
+            "Delcatty"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon resembles a punching boxer and is a Fighting type?",
+        "correct_answer": "Hitmonchan",
+        "incorrect_answers": [
+            "Hitmonlee",
+            "Tyrogue",
+            "Machoke"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is shaped like a bell and is Psychic/Steel type?",
+        "correct_answer": "Bronzong",
+        "incorrect_answers": [
+            "Chimecho",
+            "Beldum",
+            "Claydol"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon has a single horn and is a Bug type?",
+        "correct_answer": "Heracross",
+        "incorrect_answers": [
+            "Pinsir",
+            "Weedle",
+            "Beedrill"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is the pre-evolution of Blissey?",
+        "correct_answer": "Chansey",
+        "incorrect_answers": [
+            "Happiny",
+            "Clefairy",
+            "Audino"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the pre-evolution of Pikachu?",
+        "correct_answer": "Pichu",
+        "incorrect_answers": [
+            "Raichu",
+            "Plusle",
+            "Minun"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon has flame-like tails and is a Ghost/Fire type?",
+        "correct_answer": "Lampent",
+        "incorrect_answers": [
+            "Chandelure",
+            "Litwick",
+            "Houndoom"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is known as the 'Bat Pokémon' and evolves into Crobat?",
+        "correct_answer": "Golbat",
+        "incorrect_answers": [
+            "Zubat",
+            "Noibat",
+            "Woobat"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Normal-type Pokémon evolves into Zangoose?",
+        "correct_answer": "Zangoose doesn’t evolve",
+        "incorrect_answers": [
+            "Zigzagoon",
+            "Slakoth",
+            "Linoone"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Bug-type Pokémon spins silk and evolves into Ariados?",
+        "correct_answer": "Spinarak",
+        "incorrect_answers": [
+            "Wurmple",
+            "Venonat",
+            "Sewaddle"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is known for being a jellyfish and Water/Poison type?",
+        "correct_answer": "Tentacool",
+        "incorrect_answers": [
+            "Frillish",
+            "Jellicent",
+            "Qwilfish"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Electric-type Pokémon is shaped like a ball and often explodes?",
+        "correct_answer": "Voltorb",
+        "incorrect_answers": [
+            "Electrode",
+            "Magnemite",
+            "Pineco"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon evolves from Bagon?",
+        "correct_answer": "Shelgon",
+        "incorrect_answers": [
+            "Salamence",
+            "Axew",
+            "Gible"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is known as the 'Sea Lion Pokémon'?",
+        "correct_answer": "Dewgong",
+        "incorrect_answers": [
+            "Sealeo",
+            "Walrein",
+            "Seel"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What type is the Pokémon Clefairy?",
+        "correct_answer": "Fairy",
+        "incorrect_answers": [
+            "Normal",
+            "Psychic",
+            "Fairy/Flying"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon evolves from Lickitung when it learns Rollout?",
+        "correct_answer": "Lickilicky",
+        "incorrect_answers": [
+            "Snorlax",
+            "Slaking",
+            "Kangaskhan"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is shaped like a moon and is Rock/Psychic type?",
+        "correct_answer": "Lunatone",
+        "incorrect_answers": [
+            "Solrock",
+            "Clefairy",
+            "Baltoy"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon has leaves for hands and evolves into Bellossom or Vileplume?",
+        "correct_answer": "Gloom",
+        "incorrect_answers": [
+            "Oddish",
+            "Weepinbell",
+            "Chikorita"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon is shaped like a magnet and is an Electric/Steel type?",
+        "correct_answer": "Magnemite",
+        "incorrect_answers": [
+            "Metang",
+            "Probopass",
+            "Klink"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon has a red nose and evolves from Baltoy?",
+        "correct_answer": "Claydol",
+        "incorrect_answers": [
+            "Golett",
+            "Lunatone",
+            "Solrock"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Pokémon evolves into Butterfree?",
+        "correct_answer": "Metapod",
+        "incorrect_answers": [
+            "Caterpie",
+            "Weedle",
+            "Beedrill"
+        ],
+        "difficulty": "easy"
+    },
+    {
+        "question": "What Pokémon is known as the 'Fairy Pokémon' and has healing powers?",
+        "correct_answer": "Chansey",
+        "incorrect_answers": [
+            "Audino",
+            "Wigglytuff",
+            "HealthyFairy"
+        ],
+        "difficulty": "easy"
+    },
+    [
+        {
+            "question": "Which Pokémon evolves into Crobat through high friendship?",
+            "correct_answer": "Golbat",
+            "incorrect_answers": [
+                "Zubat",
+                "Noibat",
+                "Woobat"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the name of the region introduced in Pokémon Black and White?",
+            "correct_answer": "Unova",
+            "incorrect_answers": [
+                "Sinnoh",
+                "Hoenn",
+                "Alola"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Gym Leader in Hoenn specializes in Electric-type Pokémon?",
+            "correct_answer": "Wattson",
+            "incorrect_answers": [
+                "Brawly",
+                "Roxanne",
+                "Norman"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon has the ability 'Levitate' and is a Ground/Ghost type?",
+            "correct_answer": "Golurk",
+            "incorrect_answers": [
+                "Gengar",
+                "Claydol",
+                "Mismagius"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Legendary Pokémon is said to be the creator of time?",
+            "correct_answer": "Dialga",
+            "incorrect_answers": [
+                "Palkia",
+                "Arceus",
+                "Giratina"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon must hold a Razor Fang and level up at night to evolve?",
+            "correct_answer": "Gligar",
+            "incorrect_answers": [
+                "Sneasel",
+                "Eevee",
+                "Onix"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which move always causes the opponent to flinch if the user moves first?",
+            "correct_answer": "Fake Out",
+            "incorrect_answers": [
+                "Quick Attack",
+                "Bite",
+                "Headbutt"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon is known for having the move 'Sketch'?",
+            "correct_answer": "Smeargle",
+            "incorrect_answers": [
+                "Ditto",
+                "Mew",
+                "Mr. Mime"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon evolves when traded holding a Metal Coat?",
+            "correct_answer": "Onix",
+            "incorrect_answers": [
+                "Scyther",
+                "Magnemite",
+                "Machoke"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon is required to breed a Riolu?",
+            "correct_answer": "Lucario",
+            "incorrect_answers": [
+                "Zangoose",
+                "Tyrogue",
+                "Garchomp"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which evolution method is unique to Eevee becoming Sylveon?",
+            "correct_answer": "High friendship with a Fairy-type move",
+            "incorrect_answers": [
+                "Moon Stone",
+                "Level at night",
+                "Trade"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "What Pokémon is known for its ability to change forms between day and night?",
+            "correct_answer": "Lycanroc",
+            "incorrect_answers": [
+                "Zoroark",
+                "Eevee",
+                "Absol"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which item prevents wild Pokémon from appearing?",
+            "correct_answer": "Repel",
+            "incorrect_answers": [
+                "Escape Rope",
+                "Smoke Ball",
+                "Cleanse Tag"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon has a regional Galarian form that is Psychic/Fairy?",
+            "correct_answer": "Ponyta",
+            "incorrect_answers": [
+                "Meowth",
+                "Mr. Mime",
+                "Darumaka"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "In Pokémon GO, how many candies are usually needed to evolve a first-stage Pokémon?",
+            "correct_answer": "25",
+            "incorrect_answers": [
+                "50",
+                "100",
+                "10"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon introduced in Gen IV evolves by leveling up in a specific location?",
+            "correct_answer": "Glaceon",
+            "incorrect_answers": [
+                "Weavile",
+                "Roserade",
+                "Togekiss"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon is known for the move 'Doom Desire'?",
+            "correct_answer": "Jirachi",
+            "incorrect_answers": [
+                "Celebi",
+                "Mew",
+                "Deoxys"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the signature move of Decidueye?",
+            "correct_answer": "Spirit Shackle",
+            "incorrect_answers": [
+                "Leaf Blade",
+                "Phantom Force",
+                "Sucker Punch"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon is based on a snowflake and is Ice type?",
+            "correct_answer": "Cryogonal",
+            "incorrect_answers": [
+                "Vanillite",
+                "Snorunt",
+                "Glaceon"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the final evolution of Gible?",
+            "correct_answer": "Garchomp",
+            "incorrect_answers": [
+                "Gabite",
+                "Axew",
+                "Salamence"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon was the mascot of Pokémon Platinum?",
+            "correct_answer": "Giratina",
+            "incorrect_answers": [
+                "Dialga",
+                "Palkia",
+                "Arceus"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon evolves using a Sun Stone?",
+            "correct_answer": "Gloom (into Bellossom)",
+            "incorrect_answers": [
+                "Exeggcute",
+                "Togetic",
+                "Cherrim"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon is the counterpart to Solrock?",
+            "correct_answer": "Lunatone",
+            "incorrect_answers": [
+                "Starmie",
+                "Clefairy",
+                "Baltoy"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Dragon-type Pokémon was introduced in Gen II?",
+            "correct_answer": "Kingdra",
+            "incorrect_answers": [
+                "Dragonite",
+                "Salamence",
+                "Altaria"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Gym Leader uses a Lucario in Pokémon Diamond and Pearl?",
+            "correct_answer": "Maylene",
+            "incorrect_answers": [
+                "Gardenia",
+                "Fantina",
+                "Crasher Wake"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which move boosts Attack two stages but confuses the user?",
+            "correct_answer": "Thrash",
+            "incorrect_answers": [
+                "Outrage",
+                "Swagger",
+                "Belly Drum"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon has a Hisuian form that is Electric/Ghost?",
+            "correct_answer": "Zoroark",
+            "incorrect_answers": [
+                "Voltorb",
+                "Typhlosion",
+                "Rotom"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which item revives a fainted Pokémon with full HP?",
+            "correct_answer": "Max Revive",
+            "incorrect_answers": [
+                "Full Restore",
+                "Revive",
+                "Hyper Potion"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon was the first to have a Gigantamax form revealed?",
+            "correct_answer": "Charizard",
+            "incorrect_answers": [
+                "Pikachu",
+                "Eevee",
+                "Meowth"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon evolves from Misdreavus?",
+            "correct_answer": "Mismagius",
+            "incorrect_answers": [
+                "Dusclops",
+                "Sableye",
+                "Banette"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Poké Ball has the highest catch rate when used on a Pokémon of the same species you've caught before?",
+            "correct_answer": "Repeat Ball",
+            "incorrect_answers": [
+                "Quick Ball",
+                "Luxury Ball",
+                "Net Ball"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "What does the move 'U-turn' do after damaging the opponent?",
+            "correct_answer": "Switches the user out",
+            "incorrect_answers": [
+                "Raises speed",
+                "Inflicts recoil",
+                "Paralyzes"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Legendary Pokémon is known for creating Pokémon eggs in myth?",
+            "correct_answer": "Arceus",
+            "incorrect_answers": [
+                "Mew",
+                "Celebi",
+                "Jirachi"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon is a Steel/Psychic type introduced in Gen III?",
+            "correct_answer": "Metagross",
+            "incorrect_answers": [
+                "Jirachi",
+                "Bronzong",
+                "Gallade"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the evolved form of Fletchinder?",
+            "correct_answer": "Talonflame",
+            "incorrect_answers": [
+                "Fletchling",
+                "Pidgeot",
+                "Staraptor"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which item allows a Pokémon to evolve via trade without being held?",
+            "correct_answer": "Linking Cord",
+            "incorrect_answers": [
+                "Trade Cable",
+                "Friendship Band",
+                "Level Up Stone"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which move type is super effective against both Rock and Steel?",
+            "correct_answer": "Fighting",
+            "incorrect_answers": [
+                "Fire",
+                "Ground",
+                "Water"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon uses the move 'Snipe Shot' as its signature move?",
+            "correct_answer": "Inteleon",
+            "incorrect_answers": [
+                "Greninja",
+                "Cloyster",
+                "Empoleon"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon evolves into Darmanitan?",
+            "correct_answer": "Darumaka",
+            "incorrect_answers": [
+                "Simisear",
+                "Heatmor",
+                "Magby"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "What region is the starter Pokémon Rowlet from?",
+            "correct_answer": "Alola",
+            "incorrect_answers": [
+                "Galar",
+                "Sinnoh",
+                "Unova"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which move type is immune to Normal-type moves?",
+            "correct_answer": "Ghost",
+            "incorrect_answers": [
+                "Rock",
+                "Steel",
+                "Fighting"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon evolves from Rockruff into a Midnight Form Lycanroc?",
+            "correct_answer": "Rockruff (at night in Pokémon Moon)",
+            "incorrect_answers": [
+                "Litleo",
+                "Growlithe",
+                "Houndour"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which move guarantees a critical hit every time?",
+            "correct_answer": "Storm Throw",
+            "incorrect_answers": [
+                "Night Slash",
+                "Slash",
+                "Psycho Cut"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Fire-type Pokémon was the first starter in the Johto region?",
+            "correct_answer": "Cyndaquil",
+            "incorrect_answers": [
+                "Torchic",
+                "Chimchar",
+                "Tepig"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon is known for its scarf and ninja-like appearance?",
+            "correct_answer": "Greninja",
+            "incorrect_answers": [
+                "Lucario",
+                "Gallade",
+                "Zoroark"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Legendary Pokémon is Ice/Flying type and found in the Seafoam Islands?",
+            "correct_answer": "Articuno",
+            "incorrect_answers": [
+                "Zapdos",
+                "Lugia",
+                "Regice"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon evolves with a Shiny Stone?",
+            "correct_answer": "Togetic",
+            "incorrect_answers": [
+                "Roselia",
+                "Murkrow",
+                "Chingling"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon evolves into Aegislash?",
+            "correct_answer": "Doublade",
+            "incorrect_answers": [
+                "Honedge",
+                "Bisharp",
+                "Klinklang"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Gym Leader uses Steelix in the Johto region?",
+            "correct_answer": "Jasmine",
+            "incorrect_answers": [
+                "Pryce",
+                "Clair",
+                "Morty"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon evolves into Crobat through high friendship?",
+            "correct_answer": "Golbat",
+            "incorrect_answers": [
+                "Zubat",
+                "Noibat",
+                "Woobat"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the name of the region introduced in Pokémon Black and White?",
+            "correct_answer": "Unova",
+            "incorrect_answers": [
+                "Sinnoh",
+                "Hoenn",
+                "Alola"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Gym Leader in Hoenn specializes in Electric-type Pokémon?",
+            "correct_answer": "Wattson",
+            "incorrect_answers": [
+                "Brawly",
+                "Roxanne",
+                "Norman"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon has the ability 'Levitate' and is a Ground/Ghost type?",
+            "correct_answer": "Golurk",
+            "incorrect_answers": [
+                "Gengar",
+                "Claydol",
+                "Mismagius"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Legendary Pokémon is said to be the creator of time?",
+            "correct_answer": "Dialga",
+            "incorrect_answers": [
+                "Palkia",
+                "Arceus",
+                "Giratina"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon must hold a Razor Fang and level up at night to evolve?",
+            "correct_answer": "Gligar",
+            "incorrect_answers": [
+                "Sneasel",
+                "Eevee",
+                "Onix"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which move always causes the opponent to flinch if the user moves first?",
+            "correct_answer": "Fake Out",
+            "incorrect_answers": [
+                "Quick Attack",
+                "Bite",
+                "Headbutt"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon is known for having the move 'Sketch'?",
+            "correct_answer": "Smeargle",
+            "incorrect_answers": [
+                "Ditto",
+                "Mew",
+                "Mr. Mime"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon evolves when traded holding a Metal Coat?",
+            "correct_answer": "Onix",
+            "incorrect_answers": [
+                "Scyther",
+                "Magnemite",
+                "Machoke"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon is required to breed a Riolu?",
+            "correct_answer": "Lucario",
+            "incorrect_answers": [
+                "Zangoose",
+                "Tyrogue",
+                "Garchomp"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon evolves into Steelix when traded while holding a Metal Coat?",
+            "correct_answer": "Onix",
+            "incorrect_answers": [
+                "Magnemite",
+                "Steelix",
+                "Sneasel"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon is the first to be revealed as a Legendary Pokémon in the game?",
+            "correct_answer": "Mewtwo",
+            "incorrect_answers": [
+                "Lugia",
+                "Articuno",
+                "Suicune"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "In Pokémon Diamond and Pearl, which is the Pokémon League Champion?",
+            "correct_answer": "Cynthia",
+            "incorrect_answers": [
+                "Barry",
+                "Roark",
+                "Cyrus"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Psychic-type Pokémon is known for its telekinetic abilities?",
+            "correct_answer": "Alakazam",
+            "incorrect_answers": [
+                "Kadabra",
+                "Mewtwo",
+                "Espeon"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon is a Water/Ghost-type introduced in Generation VI?",
+            "correct_answer": "Pumpkaboo",
+            "incorrect_answers": [
+                "Froakie",
+                "Chespin",
+                "Squirtle"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon's evolutions are based on stones, like the Moon Stone?",
+            "correct_answer": "Clefairy",
+            "incorrect_answers": [
+                "Eevee",
+                "Nidoran♀",
+                "Zubat"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Gen III Pokémon evolves from Feebas?",
+            "correct_answer": "Milotic",
+            "incorrect_answers": [
+                "Magikarp",
+                "Gyarados",
+                "Carvanha"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon's moveset includes the attack 'Solar Beam'?",
+            "correct_answer": "Venusaur",
+            "incorrect_answers": [
+                "Charizard",
+                "Sceptile",
+                "Bulbasaur"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the signature ability of the Pokémon 'Sableye'?",
+            "correct_answer": "Prankster",
+            "incorrect_answers": [
+                "Sturdy",
+                "Levitate",
+                "Intimidate"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon evolves when it is exposed to a Thunder Stone?",
+            "correct_answer": "Pikachu",
+            "incorrect_answers": [
+                "Eevee",
+                "Vulpix",
+                "Shinx"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Ghost-type Legendary Pokémon is associated with the Sinnoh region?",
+            "correct_answer": "Giratina",
+            "incorrect_answers": [
+                "Mismagius",
+                "Spiritomb",
+                "Zygarde"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon evolves from Rockruff in Generation VII?",
+            "correct_answer": "Lycanroc",
+            "incorrect_answers": [
+                "Eevee",
+                "Beldum",
+                "Zubat"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon can be found at the bottom of a lake in the Hoenn region?",
+            "correct_answer": "Kyogre",
+            "incorrect_answers": [
+                "Groudon",
+                "Rayquaza",
+                "Mewtwo"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon was first introduced in Generation IV and has a dual type of Steel/Fighting?",
+            "correct_answer": "Lucario",
+            "incorrect_answers": [
+                "Scizor",
+                "Steelix",
+                "Bastiodon"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the evolved form of Piplup?",
+            "correct_answer": "Empoleon",
+            "incorrect_answers": [
+                "Prinplup",
+                "Chimchar",
+                "Torterra"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon's pre-evolution is Togepi?",
+            "correct_answer": "Togetic",
+            "incorrect_answers": [
+                "Togekiss",
+                "Tropius",
+                "Clefable"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon is known for evolving from Eevee when exposed to a Water Stone?",
+            "correct_answer": "Vaporeon",
+            "incorrect_answers": [
+                "Flareon",
+                "Jolteon",
+                "Espeon"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon from Generation I is considered a 'legendary' and can change form?",
+            "correct_answer": "Mewtwo",
+            "incorrect_answers": [
+                "Articuno",
+                "Zapdos",
+                "Mew"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon was designed as an 'alien' and first appeared in Generation VI?",
+            "correct_answer": "Zygarde",
+            "incorrect_answers": [
+                "Arceus",
+                "Giratina",
+                "Deoxys"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which of these Pokémon is a Grass/Fighting-type?",
+            "correct_answer": "Chesnaught",
+            "incorrect_answers": [
+                "Torterra",
+                "Sceptile",
+                "Venusaur"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the evolved form of the Pokémon 'Gumshoos'?",
+            "correct_answer": "None (Gumshoos doesn't evolve)",
+            "incorrect_answers": [
+                "Yungoos",
+                "Grubbin",
+                "Salandit"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon is famous for transforming into a larger, more dangerous form in battle?",
+            "correct_answer": "Gyarados",
+            "incorrect_answers": [
+                "Magikarp",
+                "Poliwrath",
+                "Psyduck"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon is known as the 'Cave Pokémon' and has a strong relationship with the Moon?",
+            "correct_answer": "Zubat",
+            "incorrect_answers": [
+                "Geodude",
+                "Mankey",
+                "Sandshrew"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon is considered the 'Ancient Pokémon' in Pokémon mythology?",
+            "correct_answer": "Regigigas",
+            "incorrect_answers": [
+                "Giratina",
+                "Lugia",
+                "Hoopa"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the evolved form of Combee?",
+            "correct_answer": "Vespiquen",
+            "incorrect_answers": [
+                "Beedrill",
+                "Caterpie",
+                "Wurmple"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Gen VII Legendary Pokémon is a mascot for the Moon version?",
+            "correct_answer": "Lunala",
+            "incorrect_answers": [
+                "Solgaleo",
+                "Necrozma",
+                "Zygarde"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon has an ability named 'Poison Point' and is a classic poison-type?",
+            "correct_answer": "Tentacool",
+            "incorrect_answers": [
+                "Toxapex",
+                "Weezing",
+                "Seviper"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon evolves into Nidoqueen or Nidoking?",
+            "correct_answer": "Nidoran♀ and Nidoran♂",
+            "incorrect_answers": [
+                "Pidgey",
+                "Meowth",
+                "Electrode"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Legendary Pokémon is said to have created the seas?",
+            "correct_answer": "Kyogre",
+            "incorrect_answers": [
+                "Groudon",
+                "Rayquaza",
+                "Lugia"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which is the first Pokémon that Ash Ketchum caught in the wild?",
+            "correct_answer": "Caterpie",
+            "incorrect_answers": [
+                "Pidgey",
+                "Squirtle",
+                "Bulbasaur"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon is famous for controlling gravity and is linked to the Sinnoh region?",
+            "correct_answer": "Uxie",
+            "incorrect_answers": [
+                "Mesprit",
+                "Azelf",
+                "Regigigas"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon can evolve into either Venusaur or Ivysaur?",
+            "correct_answer": "Bulbasaur",
+            "incorrect_answers": [
+                "Charmander",
+                "Squirtle",
+                "Chikorita"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Pokémon was the first to be classified as a Legendary Pokémon and is tied to the concept of time?",
+            "correct_answer": "Dialga",
+            "incorrect_answers": [
+                "Palkia",
+                "Giratina",
+                "Lugia"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon has the highest base stats in the Pokémon games?",
+            "correct_answer": "Arceus",
+            "incorrect_answers": [
+                "Mewtwo",
+                "Rayquaza",
+                "Lugia"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon has the unique ability 'Wonder Guard'?",
+            "correct_answer": "Shedinja",
+            "incorrect_answers": [
+                "Gardevoir",
+                "Togekiss",
+                "Salamence"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "What is the signature move of the Pokémon 'Mewtwo'?",
+            "correct_answer": "Psystrike",
+            "incorrect_answers": [
+                "Psychic",
+                "Hyper Beam",
+                "Recover"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Legendary Pokémon represents 'truth' and has a fiery body?",
+            "correct_answer": "Reshiram",
+            "incorrect_answers": [
+                "Zekrom",
+                "Kyurem",
+                "Giratina"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "In the Pokémon games, which event legendary Pokémon is known to manipulate the space-time continuum?",
+            "correct_answer": "Dialga",
+            "incorrect_answers": [
+                "Lugia",
+                "Mewtwo",
+                "Giratina"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon is the first one to appear in the anime's opening theme, 'Pokémon Theme'?",
+            "correct_answer": "Pikachu",
+            "incorrect_answers": [
+                "Charizard",
+                "Squirtle",
+                "Meowth"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Generation IV Legendary Pokémon has the unique ability 'Levitate'?",
+            "correct_answer": "Rotom",
+            "incorrect_answers": [
+                "Giratina",
+                "Magnezone",
+                "Zekrom"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "What type is the Pokémon Giratina in its Altered Form?",
+            "correct_answer": "Ghost/Dragon",
+            "incorrect_answers": [
+                "Ghost/Flying",
+                "Dark/Dragon",
+                "Ghost/Steel"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "What is the name of the Pokémon that holds the title of 'The First Pokémon' in Pokémon lore?",
+            "correct_answer": "Arceus",
+            "incorrect_answers": [
+                "Mew",
+                "Giratina",
+                "Lugia"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Legendary Pokémon is said to control the oceans and appeared in Pokémon Omega Ruby and Alpha Sapphire?",
+            "correct_answer": "Kyogre",
+            "incorrect_answers": [
+                "Groudon",
+                "Lugia",
+                "Mewtwo"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon can transform into other Pokémon using its signature move 'Transform'?",
+            "correct_answer": "Ditto",
+            "incorrect_answers": [
+                "Zorua",
+                "Mew",
+                "Mime Jr."
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon from Generation IV is known as the 'Aura Pokémon'?",
+            "correct_answer": "Lucario",
+            "incorrect_answers": [
+                "Electivire",
+                "Torterra",
+                "Garchomp"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon was introduced in Generation V as a dual-type of Dragon/Fighting?",
+            "correct_answer": "Zekrom",
+            "incorrect_answers": [
+                "Reshiram",
+                "Keldeo",
+                "Deoxys"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon in the Sinnoh region is said to have the power to shape the universe?",
+            "correct_answer": "Dialga",
+            "incorrect_answers": [
+                "Giratina",
+                "Palkia",
+                "Cresselia"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon holds the title 'The Renegade Pokémon'?",
+            "correct_answer": "Giratina",
+            "incorrect_answers": [
+                "Dialga",
+                "Lugia",
+                "Mewtwo"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "What Pokémon evolves into Garchomp?",
+            "correct_answer": "Gible",
+            "incorrect_answers": [
+                "Snover",
+                "Totodile",
+                "Mudkip"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon has a Mega Evolution exclusive to Pokémon X?",
+            "correct_answer": "Charizard",
+            "incorrect_answers": [
+                "Venusaur",
+                "Blastoise",
+                "Pikachu"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon is known as the 'Order Pokémon' and is tied to Pokémon Legends: Arceus?",
+            "correct_answer": "Arceus",
+            "incorrect_answers": [
+                "Dialga",
+                "Palkia",
+                "Giratina"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Generation IV Pokémon is the main antagonist in the Pokémon Diamond and Pearl games?",
+            "correct_answer": "Cyrus",
+            "incorrect_answers": [
+                "Lance",
+                "Giovanni",
+                "Silver"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "What Pokémon can transform into different forms based on the weather?",
+            "correct_answer": "Castform",
+            "incorrect_answers": [
+                "Eevee",
+                "Zorua",
+                "Deoxys"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon can learn the unique move 'Fusion Flare'?",
+            "correct_answer": "Reshiram",
+            "incorrect_answers": [
+                "Zekrom",
+                "Kyurem",
+                "Mewtwo"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Legendary Pokémon represents 'the truth' in the Pokémon Black and White games?",
+            "correct_answer": "Reshiram",
+            "incorrect_answers": [
+                "Zekrom",
+                "Kyurem",
+                "Giratina"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon is associated with the concept of 'Space' and has the ability to manipulate dimensions?",
+            "correct_answer": "Palkia",
+            "incorrect_answers": [
+                "Dialga",
+                "Giratina",
+                "Arceus"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Legendary Pokémon is known for controlling the oceans?",
+            "correct_answer": "Kyogre",
+            "incorrect_answers": [
+                "Groudon",
+                "Lugia",
+                "Mewtwo"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon evolves into Salamence?",
+            "correct_answer": "Shelgon",
+            "incorrect_answers": [
+                "Bagon",
+                "Dratini",
+                "Dragonite"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Psychic Pokémon from Generation VI can Mega Evolve into a stronger form?",
+            "correct_answer": "Gardevoir",
+            "incorrect_answers": [
+                "Lucario",
+                "Sylveon",
+                "Alakazam"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon's evolution line includes a Mega Evolution that increases its speed?",
+            "correct_answer": "Mawile",
+            "incorrect_answers": [
+                "Metagross",
+                "Scizor",
+                "Steelix"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Legendary Pokémon has the ability to control the flow of time?",
+            "correct_answer": "Dialga",
+            "incorrect_answers": [
+                "Giratina",
+                "Palkia",
+                "Arceus"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon has a Mega Evolution exclusive to Pokémon Y?",
+            "correct_answer": "Mewtwo",
+            "incorrect_answers": [
+                "Charizard",
+                "Venusaur",
+                "Blastoise"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon has a unique signature move called 'Judgment'?",
+            "correct_answer": "Arceus",
+            "incorrect_answers": [
+                "Palkia",
+                "Dialga",
+                "Giratina"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon has a form called 'Therian Form'?",
+            "correct_answer": "Landorus",
+            "incorrect_answers": [
+                "Tornadus",
+                "Thundurus",
+                "Giratina"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Psychic/Fighting-type Pokémon evolves from Mienfoo?",
+            "correct_answer": "Mienshao",
+            "incorrect_answers": [
+                "Gardevoir",
+                "Lucario",
+                "Medicham"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "What Pokémon evolves from Feebas?",
+            "correct_answer": "Milotic",
+            "incorrect_answers": [
+                "Magikarp",
+                "Tentacool",
+                "Corsola"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Legendary Pokémon has the ability to manipulate the sun?",
+            "correct_answer": "Solgaleo",
+            "incorrect_answers": [
+                "Lunala",
+                "Reshiram",
+                "Zygarde"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Fire-type Pokémon evolves into Flareon when exposed to a Fire Stone?",
+            "correct_answer": "Eevee",
+            "incorrect_answers": [
+                "Magmar",
+                "Vulpix",
+                "Charmander"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon is known for the ability 'Prankster' and its evolution is based on the Moon?",
+            "correct_answer": "Sableye",
+            "incorrect_answers": [
+                "Mimikyu",
+                "Zorua",
+                "Meowstic"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Generation V Pokémon is known for its fusion with Zekrom or Reshiram in its form?",
+            "correct_answer": "Kyurem",
+            "incorrect_answers": [
+                "Deoxys",
+                "Rayquaza",
+                "Giratina"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Legendary Pokémon is associated with the 'Sky' and is often seen in Pokémon X and Y?",
+            "correct_answer": "Yveltal",
+            "incorrect_answers": [
+                "Zygarde",
+                "Xerneas",
+                "Ho-Oh"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "What is the only Pokémon capable of using the move 'Transform' in its original form?",
+            "correct_answer": "Ditto",
+            "incorrect_answers": [
+                "Mew",
+                "Zorua",
+                "Mimikyu"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Psychic-type Pokémon from Generation VI has a Mega Evolution that changes its abilities?",
+            "correct_answer": "Gardevoir",
+            "incorrect_answers": [
+                "Alakazam",
+                "Lunatone",
+                "Mewtwo"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon is said to have been created by the god of the Pokémon world, Arceus?",
+            "correct_answer": "Darkrai",
+            "incorrect_answers": [
+                "Giratina",
+                "Dialga",
+                "Palkia"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon has the special ability 'Multitype', allowing it to change its type?",
+            "correct_answer": "Arceus",
+            "incorrect_answers": [
+                "Shaymin",
+                "Deoxys",
+                "Mewtwo"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon is known for having the 'Gigantamax' form in Pokémon Sword and Shield?",
+            "correct_answer": "Charizard",
+            "incorrect_answers": [
+                "Pikachu",
+                "Gengar",
+                "Eevee"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Legendary Pokémon is the embodiment of life and is a Fairy/Dragon-type?",
+            "correct_answer": "Xerneas",
+            "incorrect_answers": [
+                "Yveltal",
+                "Zygarde",
+                "Mew"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon has an Evolution line known as 'The Sinnoh's Legendary Trio'?",
+            "correct_answer": "Dialga, Palkia, and Giratina",
+            "incorrect_answers": [
+                "Mewtwo",
+                "Zygarde",
+                "Rayquaza"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon has a signature move 'Searing Shot'?",
+            "correct_answer": "Reshiram",
+            "incorrect_answers": [
+                "Moltres",
+                "Lugia",
+                "Ho-oh"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Legendary Pokémon was the main antagonist in Pokémon Black and White?",
+            "correct_answer": "Team Plasma's leader, N",
+            "incorrect_answers": [
+                "Cyrus",
+                "Giovanni",
+                "Lysandre"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon has a unique ability called 'Chlorophyll' and is known for its ability to improve its stats under the sun?",
+            "correct_answer": "Vileplume",
+            "incorrect_answers": [
+                "Exeggutor",
+                "Tangrowth",
+                "Lileep"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon is the first in the original National Pokédex to evolve from a stone?",
+            "correct_answer": "Pikachu",
+            "incorrect_answers": [
+                "Eevee",
+                "Charizard",
+                "Zubat"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Legendary Pokémon is considered to represent the concept of 'Time'?",
+            "correct_answer": "Dialga",
+            "incorrect_answers": [
+                "Palkia",
+                "Giratina",
+                "Mewtwo"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon evolves from Beldum and can Mega Evolve in Pokémon Omega Ruby and Alpha Sapphire?",
+            "correct_answer": "Metagross",
+            "incorrect_answers": [
+                "Steelix",
+                "Magnemite",
+                "Magnemite"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon can Mega Evolve into Mega Charizard Y and is one of the most powerful Fire/Flying-types?",
+            "correct_answer": "Charizard",
+            "incorrect_answers": [
+                "Blaziken",
+                "Talonflame",
+                "Ho-oh"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon is known for its ability 'Synchronize'?",
+            "correct_answer": "Ralts",
+            "incorrect_answers": [
+                "Eevee",
+                "Zubat",
+                "Meowth"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon is the mascot for Pokémon Sword?",
+            "correct_answer": "Zacian",
+            "incorrect_answers": [
+                "Zamazenta",
+                "Mewtwo",
+                "Grookey"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon is said to be the 'Unovan Regi' in the Unova region and known for its role in Pokémon Black and White?",
+            "correct_answer": "Volcarona",
+            "incorrect_answers": [
+                "Haxorus",
+                "Cobalion",
+                "Landorus"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Dark-type Legendary Pokémon represents 'Destruction'?",
+            "correct_answer": "Yveltal",
+            "incorrect_answers": [
+                "Zygarde",
+                "Giratina",
+                "Xerneas"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Legendary Pokémon evolves into Zygarde in Pokémon X and Y?",
+            "correct_answer": "Zygarde",
+            "incorrect_answers": [
+                "Giratina",
+                "Palkia",
+                "Dialga"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "What ability does the Pokémon 'Bulbasaur' have that increases its attack stats under sunny conditions?",
+            "correct_answer": "Solar Power",
+            "incorrect_answers": [
+                "Chlorophyll",
+                "Blaze",
+                "Regenerator"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which legendary Pokémon was created in Generation IV and is the 'Goddess of the Seas'?",
+            "correct_answer": "Lugia",
+            "incorrect_answers": [
+                "Kyogre",
+                "Mewtwo",
+                "Rayquaza"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon is associated with the 'Dream World' in the Pokémon universe and is a Psychic/Fairy-type?",
+            "correct_answer": "Mew",
+            "incorrect_answers": [
+                "Lunala",
+                "Jirachi",
+                "Victini"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon evolves from Bagon?",
+            "correct_answer": "Shelgon",
+            "incorrect_answers": [
+                "Gible",
+                "Salamence",
+                "Axew"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon represents the concept of 'endless power' and is known as the God of Pokémon?",
+            "correct_answer": "Arceus",
+            "incorrect_answers": [
+                "Dialga",
+                "Palkia",
+                "Giratina"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon evolves into Kingdra in Pokémon Silver and Gold?",
+            "correct_answer": "Seadra",
+            "incorrect_answers": [
+                "Politoed",
+                "Totodile",
+                "Corphish"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon, known as the 'Moon Pokémon', is the mascot of Pokémon Moon?",
+            "correct_answer": "Lunala",
+            "incorrect_answers": [
+                "Solgaleo",
+                "Zygarde",
+                "Mewtwo"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "What Pokémon can learn the move 'Sacred Sword'?",
+            "correct_answer": "Keldeo",
+            "incorrect_answers": [
+                "Virizion",
+                "Cobalion",
+                "Terrakion"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon evolves into Dusknoir?",
+            "correct_answer": "Dusclops",
+            "incorrect_answers": [
+                "Shuppet",
+                "Drifloon",
+                "Mimikyu"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon evolves into Beedrill and has a Mega Evolution?",
+            "correct_answer": "Weedle",
+            "incorrect_answers": [
+                "Metapod",
+                "Caterpie",
+                "Butterfree"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon is famous for its ability to regenerate health?",
+            "correct_answer": "Toxapex",
+            "incorrect_answers": [
+                "Regenerator",
+                "Gumshoos",
+                "Salamence"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon has the signature ability 'Regenerator'?",
+            "correct_answer": "Toxapex",
+            "incorrect_answers": [
+                "Lurantis",
+                "Rotom",
+                "Chansey"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon evolves from Magikarp and has a Flying/Dragon type?",
+            "correct_answer": "Gyarados",
+            "incorrect_answers": [
+                "Tornadus",
+                "Charizard",
+                "Salamence"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Pokémon has an ability called 'Illusion' and is known to disguise itself?",
+            "correct_answer": "Zorua",
+            "incorrect_answers": [
+                "Mimikyu",
+                "Ditto",
+                "Zygarde"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Legendary Pokémon represents 'the sea' in Pokémon Omega Ruby and Alpha Sapphire?",
+            "correct_answer": "Kyogre",
+            "incorrect_answers": [
+                "Groudon",
+                "Rayquaza",
+                "Lugia"
+            ],
+            "difficulty": "hard"
+        }
+    ]
+]
