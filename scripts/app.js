@@ -28,6 +28,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
         console.log("Selected Difficulty:", selectedDifficulty);
 
+        // Show loading spinner while fetching questions
+        document.getElementById('loading-spinner').style.display = 'block';
+
         try {
             const response = await fetch(localPath);
             if (!response.ok) throw new Error("Failed to load questions");
@@ -37,6 +40,9 @@ document.addEventListener("DOMContentLoaded", () => {
             startQuiz();
         } catch (error) {
             console.error("Error loading local Pokémon questions:", error);
+        } finally {
+            // Hide loading spinner when done
+            document.getElementById('loading-spinner').style.display = 'none';
         }
     }
 
@@ -95,9 +101,9 @@ document.addEventListener("DOMContentLoaded", () => {
         clearInterval(timer);
         if (selectedAnswer === correctAnswer) {
             score++;
-            button.style.backgroundColor = "green";
+            button.classList.add("correct");
         } else {
-            button.style.backgroundColor = "red";
+            button.classList.add("incorrect");
         }
         setTimeout(() => {
             currentQuestionIndex++;

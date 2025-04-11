@@ -16,6 +16,13 @@
 </head>
 
 <body>
+    <header>
+        <div class="header-content">
+            <img src="assets/icons/logo2.png" alt="Poké Ball" class="logo" />
+            <h1>It’s Quiz Time, Pikachu!</h1>
+        </div>
+    </header>
+
     <div id="app">
         <!-- Welcome Screen -->
         <section id="welcome-screen" class="screen">
@@ -28,21 +35,26 @@
                 <option value="hard">Hard</option>
             </select>
             <button id="start-quiz">Start Quiz</button>
+            <!-- 🎬 Video Section -->
+            <div class="intro-video">
+                <video src="video/pokemon-intro.mp4" autoplay muted loop></video>
+            </div>
         </section>
 
         <!-- Quiz Section -->
-        <section id="quiz-screen" class="screen-hidden">
+        <section id="quiz-screen">
+            <div id="loading-spinner"></div> <!-- Poké Ball Spinner -->
             <div id="question-container">
-                <h2 id="question-text">Question will appear here</h2>
+                <h2 id="question-text">Ash is waiting to see if you’ve got what it takes!</h2>
                 <div id="answers-container"></div>
             </div>
             <div id="timer">15</div>
         </section>
 
         <!-- Results Section -->
-        <section id="results-screen" class="screen-hidden">
+        <section id="results-screen">
             <h2>Your Score: <span id="final-score">0</span></h2>
-            <p id="trivia-text">Pokémon trivia will appear here!</p>
+            <p id="trivia-text">A wild mystery is approaching... Stay tuned!</p>
             <button id="restart-quiz">Try Again</button>
         </section>
     </div>
@@ -51,6 +63,11 @@
         <h2>🏆 Top Trainers</h2>
         <ul id="leaderboard-list"></ul>
     </section>
+    <!-- Footer -->
+    <footer>
+        <p>Created by Hyrum Morales &copy; 2025 | Powered by PokéAPI</p>
+        <img src="assets/icons/Dragonite.png" alt="Poké Ball" class="logo-footer" />
+    </footer>
 
     <script src="scripts/app.js" type="module" defer></script>
 </body>
