@@ -286,7 +286,6 @@ footer {
     height: 130vw;
     max-height: 33rem;
     border-radius: 12px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
     display: block;
     justify-self: center;
     margin: 1rem;
