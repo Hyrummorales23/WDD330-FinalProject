@@ -284,14 +284,12 @@ footer {
 
 .intro-image {
     width: 100%;
-    max-width: 600px;
+    max-width: 450px;
     height: auto;
     border-radius: 12px;
     display: block;
     justify-self: center;
     margin: 1rem;
-    margin-top: 10rem;
-    margin-bottom: none;
 }
 
 /* Hide image on desktop */
