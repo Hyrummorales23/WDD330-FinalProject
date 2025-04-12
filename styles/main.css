@@ -255,14 +255,14 @@ footer {
     }
 }
 
-#quiz-screen,
 #results-screen {
     justify-self: center;
     margin: 1.75rem;
 }
 
-#quez-screen {
-    margin: none;
+#quiz-screen {
+    margin: 1rem;
+    justify-self: center;
 }
 
 /* 🎥 Responsive Video Styling */
@@ -281,9 +281,9 @@ footer {
 }
 
 .intro-image {
-    width: auto;
-    max-width: 800px;
-    height: 130vw;
+    width: 100%;
+    max-width: 700px;
+    height: auto;
     max-height: 33rem;
     border-radius: 12px;
     display: block;
